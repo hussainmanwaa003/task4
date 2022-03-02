@@ -1,0 +1,93 @@
+body{
+    background-image: url(./4hh.jpg);
+    width: 95%;
+    height: 400px;
+}
+#s1{
+    text-align: center;
+    justify-content: center;
+    /* border: 1px solid rgb(68, 68, 68);
+    border-color: black; */
+    box-shadow: rgba(15, 15, 17, 0.95) 3px -14px 100px -20px, rgb(0 0 0 / 30%) 0px 30px 60px -30px, rgb(10 37 64 / 35%) 0px -2px 6px 0px inset;
+    width: 25%;
+    height: 490px;
+    margin: 6% auto;
+    padding-top: 10px;
+  
+}
+#s1 h2{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#s1 input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin: 0% auto;
+  width: 82%;
+  height: 30px;
+  margin-bottom: 20px;
+  outline: none;
+  /* background-color: transparent; */
+}
+#s1 .ds{
+    text-decoration: none;
+    color: rgb(179, 178, 178);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-bottom: 20px; */
+}
+#s1 .bt{
+margin: 20px 0px;
+padding: 10px 110px;
+outline: none;
+background-color: rgb(0, 0, 255);
+color: white;
+font-size: 15px;
+cursor: pointer;
+
+}
+#s1 .bt:active{
+    color: rgb(23, 124, 53);
+}
+.c1{
+    width: 140px;
+    height: 30px;
+    color: white;
+    background-color: blue;
+    outline: none;
+    font-size: 15px;
+    
+
+}
+.c1:active{
+    color: aqua;
+}
+.c2{
+    width: 140px;
+    height: 30px;
+    color: white;
+    background-color: fuchsia;
+    outline: none;
+    font-size: 15px;
+
+}
+.c2:active{
+    color: aqua;
+}
+.c3{
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c3 a{
+    text-decoration: none;
+    color: rgb(50, 50, 255);
+}
+.fd{
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-bottom: 5px; */
+}
